@@ -1,7 +1,6 @@
 
 <h1> Exception Report</h1><br/>
-<p>Core Program Functions</p>
-======================
+<h2>Core Program Functions</h2>
 <br/>
 <p>✅ Execute Stored Procedures: Create and run stored procedures within Oracle packages.</p><br/>
 <p>📊 Data Export: Extract data from Oracle database tables and populate structured Excel templates.</p><br/>
