@@ -1,12 +1,13 @@
 
-<h1> Exception Report</h1>
-Core Program Functions
-======================|
-✅ Execute Stored Procedures: Create and run stored procedures within Oracle packages.
-📊 Data Export: Extract data from Oracle database tables and populate structured Excel templates.
-📧 Email Data Retrieval: Pull and process email-related data directly from Oracle database tables.
-🎨 Email Template Design: Design and develop dynamic, reusable email templates.
-🚀 Automated Email Delivery: Send emails programmatically with integrated content and formatting.
+<h1> Exception Report</h1><br/>
+<p>Core Program Functions</p>
+======================
+<br/>
+<p>✅ Execute Stored Procedures: Create and run stored procedures within Oracle packages.</p><br/>
+<p>📊 Data Export: Extract data from Oracle database tables and populate structured Excel templates.</p><br/>
+<p>📧 Email Data Retrieval: Pull and process email-related data directly from Oracle database tables.</p><br/>
+<p>🎨 Email Template Design: Design and develop dynamic, reusable email templates.</p><br/>
+<p>🚀 Automated Email Delivery: Send emails programmatically with integrated content and formatting.</p><br/>
 
 <img width="891" height="896" alt="Screenshot 2025-09-26 223101" src="https://github.com/user-attachments/assets/57d731bd-210d-4794-93a6-bc9c328b90e9" />
 
